@@ -12,8 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harish2930&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish2930&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧿 Badges
+[![@harish2930's Holopin board](https://holopin.io/api/user/board?user=harish2930)](https://holopin.io/@harish2930)<br/>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=Harish2930&icon=0&color=0)](https://visitcount.itsvg.in)
