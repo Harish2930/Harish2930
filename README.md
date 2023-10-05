@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered Nutrition Analyzer for Fitness Enthusiasts<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about frontend development<br><br>📫 How to reach me harishsrinivasan2930@gmail.com<br><br>
+🌱 I’m currently learning NextJS<br><br>💬 Ask me about frontend development<br><br>📫 How to reach me harishsrinivasan2930@gmail.com<br><br>
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
----
-[![](https://visitcount.itsvg.in/api?id=Harish2930&icon=0&color=0)](https://visitcount.itsvg.in)
