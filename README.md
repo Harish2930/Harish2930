@@ -1,8 +1,8 @@
 # 💫About Me :
-🔭 I’m exploring new oppurtunites
-👯 I’m looking to collaborate on Interesting Ideas
-🌱 I’m currently learning Next JS
-💬 Ask me about Frontend Dev
+🔭 I’m exploring new oppurtunites<br/>
+👯 I’m looking to collaborate on Interesting Ideas<br/>
+🌱 I’m currently learning Next JS<br/>
+💬 Ask me about Frontend Dev<br/>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish2930/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/HarishSrin38881) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@positivebrilliance1316) 
